@@ -14,5 +14,5 @@ Python implementations and mathematical write-ups of Jane Street’s monthly puz
 | Month | Puzzle | Solution | Techniques |
 | :--- | :--- | :--- | :--- |
 | **Jul 2026** | [Pent-Up Frustration 3](https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/) | [code](2026/2026-07/pent_up_frustration.py) | Recursive Backtracking |
-| **Aug 2026** | [Andy's Afternoon Amble](https://www.janestreet.com/puzzles/andy's-afternoon-amble-index/) | [writeup](2026/2026-08/andy_amble.md) | Markov Chains, Monte Carlo Simulation |
-| **Sep 2026** | *In Progress* |  |  |
+| **Aug 2026** | [Andy's Afternoon Amble](https://www.janestreet.com/puzzles/andy-afternoon-amble-index/) | [writeup](2026/2026-08/andy_amble.md) | Markov Chains, Monte Carlo Simulation |
+| **Sep 2026** | [Hint Single](https://www.janestreet.com/puzzles/hint-singles-index/) | [writeup](2026/2026-09/hint-singles.md) | Letter insertion |
